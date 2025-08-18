@@ -29,10 +29,10 @@ layout: center
 layout: center
 ---
 
-# 1. Codebase Understanding
-# 2. Add Features or Fix Bugs
-# 3. Generating Tests
-# 4. Convert Design to Code
+# 🔍 Codebase Understanding
+# 🚀 Add Features or Fix Bugs
+# 🧪 Generating Tests
+# 🎨 Convert Design to Code
 
 ---
 layout: section
