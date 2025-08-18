@@ -26,6 +26,15 @@ layout: center
 # 能帶來哪些與傳統開發不同的改變
 
 ---
+layout: center
+---
+
+# 1. Codebase Understanding
+# 2. Add Features or Fix Bugs
+# 3. Generating Tests
+# 4. Convert Design to Code
+
+---
 layout: section
 ---
 
@@ -38,17 +47,24 @@ layout: section
 # How to Set Up？
 
 ---
-layout: quote
+layout: center
 ---
 
-# 最重要的是保持 Roo Code 自動更新
+# 只要設定好 Endpoint、Model、Token
+# 就能立即用 AI 強化你的日常開發流程
+
+---
+layout: center
+---
+
+# 最重要是保持 Roo Code 自動更新
 # 享受熱絡的開源社群紅利
 
 ---
 layout: section
 ---
 
-# 1. Codebase Understanding
+# 🔍 Codebase Understanding
 
 <!--
 1. 實際演示如何用 AI 分析專案的整體結構，並自動生成視覺化圖表，幫助工程師快速掌握 Codebase 架構。
@@ -60,7 +76,7 @@ layout: section
 layout: section
 ---
 
-# 2. Add Features or Fix Bugs
+# 🚀 Add Features or Fix Bugs
 
 <!--
 1. 實際演示如何用 AI 根據產品規格，逐步完成新功能的開發流程。
@@ -74,7 +90,7 @@ layout: section
 layout: section
 ---
 
-# 3. Generating Tests
+# 🧪 Generating Tests
 
 <!--
 1. 實際演示如何讓 AI 撰寫並優化測試程式碼，並模擬使用情境進行驗證。
@@ -86,7 +102,7 @@ layout: section
 layout: section
 ---
 
-# 4. Convert Design to Code
+# 🎨 Convert Design to Code
 
 <!--
 1. 實際演示如何用 Figma MCP，讓 AI 在幾分鐘內將設計稿轉換成可用的程式碼，並即時比較設計與最終網頁的差異，檢驗 AI 的精準度。
@@ -109,7 +125,7 @@ layout: section
 # Q&A
 
 ---
-layout: section
+layout: statement
 ---
 
 # Thank you.
