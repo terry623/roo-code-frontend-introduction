@@ -50,11 +50,25 @@ layout: section
 
 # 1. Codebase Understanding
 
+<!--
+1. 實際演示如何用 AI 分析專案的整體結構，並自動生成視覺化圖表，幫助工程師快速掌握 Codebase 架構。
+
+2. 使用 @ 或拖拉檔案的方式進行 Context Mentions，精準告訴 AI 指的是哪個程式碼段落、檔案、資料夾，或特定內容（如 Problems、Terminal、Git Commit）。
+-->
+
 ---
 layout: section
 ---
 
 # 2. Add Features or Fix Bugs
+
+<!--
+1. 實際演示如何用 AI 根據產品規格，逐步完成新功能的開發流程。
+
+2. 工程師可以用 Customing Modes 組建一個團隊，例如「專業測試員」、「重構老前輩」、「文件寫手」，再將任務派給最適合角色去執行。
+
+3. 使用 Rules 自定義 AI 的行為，規範團隊工作流程與風格。
+-->
 
 ---
 layout: section
@@ -62,11 +76,25 @@ layout: section
 
 # 3. Generating Tests
 
+<!--
+1. 實際演示如何讓 AI 撰寫並優化測試程式碼，並模擬使用情境進行驗證。
+
+2. 利用 Slash Commands 建立重複使用的指令與工作流程，如 /review、/deploy-check，工程師可以隨時一鍵執行。
+-->
+
 ---
 layout: section
 ---
 
 # 4. Convert Design to Code
+
+<!--
+1. 實際演示如何用 Figma MCP，讓 AI 在幾分鐘內將設計稿轉換成可用的程式碼，並即時比較設計與最終網頁的差異，檢驗 AI 的精準度。
+
+2. 如果結果需要調整，工程師可直接截圖給 AI，讓它照指示快速修改。
+
+3. 也可以透過 Playwright MCP，讓 AI 自行開啟瀏覽器檢視頁面。
+-->
 
 ---
 layout: section
