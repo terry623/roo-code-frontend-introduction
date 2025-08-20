@@ -8,7 +8,8 @@ transition: slide-left
 ---
 
 # Roo Code 實戰
-# 四大真實開發情境的最佳解法
+# 四大真實開發情境的
+# 最佳解法
 Terry Lin @MediaTek
 
 ---
@@ -18,6 +19,10 @@ layout: center
 # 分享 Roo Code 的介紹與設定
 # 讓大家都能輕易且快速地上手
 
+<!--
+讓還沒有安裝的人都可以快速地上手
+-->
+
 ---
 layout: center
 ---
@@ -25,6 +30,12 @@ layout: center
 # 我們會列出「四大真實開發情境」
 # 再講解 Roo Code 在這些情境下
 # 能帶來哪些與傳統開發不同的改變
+
+<!--
+跟之前我這邊進行過的 Roo Code 功能展示的教學不太一樣
+我們就先只先講平常大家在開發的時候，有哪幾個大情境
+那有了 Roo Code 這工具之後，面對這些情境，會有什麼新的解法？
+-->
 
 ---
 layout: center
@@ -41,25 +52,43 @@ layout: section
 
 # What is Roo Code？
 
+<!--
+1. 官方文件：https://github.com/RooCodeInc/Roo-Code/blob/HEAD/locales/zh-TW/README.md
+
+2. 想像你養了一個小的開發團隊，在你的 VSCode 裏面
+-->
+
 ---
 layout: section
 ---
 
 # How to Set Up？
 
+<!--
+1. 開啟 AI Coding Assistant Tools Hub 文件開始講解
+-->
+
 ---
 layout: center
 ---
 
-# 只要設定好 Endpoint、Model、Token
+# 只要設定好 **Endpoint、Model、Token**
 # 就能立即用 AI 強化你的日常開發流程
+
+<!--
+1. 要強調 3 這個數字，讓大家有印象
+-->
 
 ---
 layout: center
 ---
 
 # 最重要是保持 Roo Code 自動更新
-# 享受熱絡的開源社群紅利
+# 借助熱絡的開源社群紅利
+
+<!--
+1. 因為外面 AI 世界確實是變太快了
+-->
 
 ---
 layout: section
@@ -118,6 +147,10 @@ layout: section
 ---
 
 # Conclusion
+
+<!--
+1. 重新再介紹一次 AI Coding Assistant Tools Hub
+-->
 
 ---
 layout: section
