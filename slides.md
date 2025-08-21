@@ -20,7 +20,8 @@ layout: center
 # 讓大家都能輕易且快速地上手
 
 <!--
-讓還沒有安裝的人都可以快速地上手
+快速瞭解 Roo Code 是什麼樣的工具
+並讓還沒有安裝的人都可以快速地上手
 -->
 
 ---
@@ -55,7 +56,7 @@ layout: section
 <!--
 1. 官方文件：https://github.com/RooCodeInc/Roo-Code/blob/HEAD/locales/zh-TW/README.md
 
-2. 想像你養了一個小的開發團隊，在你的 VSCode 裏面
+2. 想像你養了一個開發團隊，在你的 VSCode 裏面
 -->
 
 ---
@@ -99,7 +100,11 @@ layout: section
 <!--
 1. 實際演示如何用 AI 分析專案的整體結構，並自動生成視覺化圖表，幫助工程師快速掌握 Codebase 架構。
 
-2. 使用 @ 或拖拉檔案的方式進行 Context Mentions，精準告訴 AI 指的是哪個程式碼段落、檔案、資料夾，或特定內容（如 Problems、Terminal、Git Commit）。
+2. 使用 @ 或拖拉檔案的方式進行 Context Mentions，精準告訴 AI 指的是哪個
+  - 程式碼段落
+  - 檔案
+  - 資料夾
+  - 或特定內容（如 Problems、Terminal、Git Commit）。
 -->
 
 ---
@@ -125,7 +130,7 @@ layout: section
 <!--
 1. 實際演示如何讓 AI 撰寫並優化測試程式碼，並模擬使用情境進行驗證。
 
-2. 利用 Slash Commands 建立重複使用的指令與工作流程，如 /review、/deploy-check，工程師可以隨時一鍵執行。
+2. 利用 Slash Commands 建立重複使用的指令與工作流程，如 /review、/write-test，工程師可以隨時一鍵執行。
 
 3. 你可以這樣想像：一個擅長修車的徒弟，你是修車師傅，Slash Commands 就像是：拿最大號的板手
 
@@ -143,7 +148,9 @@ layout: section
 
 2. 如果結果需要調整，工程師可直接截圖給 AI，讓它照指示快速修改。
 
-3. 透過 Playwright MCP，讓 AI 自行開啟瀏覽器檢視頁面，不管是要看 console, network 等都可以。
+3. 透過 Playwright MCP，讓 AI 自行開啟瀏覽器檢視頁面（把畫面切兩邊），不管是要瀏覽器看 console, network 等都可以 => 如果你要讀大量的資料，交給 AI。如果是你人類很快按幾下就好了，我覺得用 AI 反而自找麻煩
+
+4. 最後再推薦一下 Context7 MCP，解決 API 過時的問題。它是 Roo Code, Cline, VSCode 都重點推薦的 MCP 
 -->
 
 ---
